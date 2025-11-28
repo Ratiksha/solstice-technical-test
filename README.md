@@ -28,6 +28,10 @@ Follow these steps to run it locally:
     7. To view test coverage
         npx vitest --coverage
 
+## Login Credentials 
+    Email: demo@gmail.com  
+    Password: qwerty
+
 ## Why I chose MSW instead of building a real backend
 
 When approaching this assignment, I had two options:
